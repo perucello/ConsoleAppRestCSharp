@@ -20,7 +20,6 @@ namespace ConsoleAppRest
             Console.ReadKey();
         }
 
-
         //GET
         //fazendo um get de uma API existente
         public static void DoConsumiWebRestClient()
